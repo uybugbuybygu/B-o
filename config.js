@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Thu Thảo',
+    titleWeb: "Gửi vợ tương lai",
+    introTitle: 'Anh Thư',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Tui biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Làm người iu anh nhé beby.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/profile.php?id=100073415177421 ' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/AnhThuLaCrushCuaTui ' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
